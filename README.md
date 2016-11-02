@@ -112,5 +112,5 @@ Now all we need to do is set the passwords as environment variables and tell Ter
 
 Thanks to
 
-* @DavyK for the idea
-* @dennybaa for providing a [guiding example](https://github.com/hashicorp/terraform/issues/4084#issuecomment-236429459).
+* [@DavyK](https://github.com/DavyK) for the idea
+* [@dennybaa](https://github.com/@dennybaa) for providing a [guiding example](https://github.com/hashicorp/terraform/issues/4084#issuecomment-236429459).
